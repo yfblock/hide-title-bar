@@ -1,0 +1,9 @@
+{
+  "name": "HideTitleBar",
+  "description": "This is a extension to hide title bar. It may a good choice if you are using tiling window manager.",
+  "uuid": "hidetitlebar@alexbd.cn",
+  "shell-version": [
+    "45"
+  ],
+  "version": 1
+}
